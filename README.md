@@ -1,23 +1,23 @@
--ls(-a/-l)
+- ls(-a/-l)
 
--pwd
+- pwd
 
--cd(~/ / /-/./../)
+- cd(~/ / /-/./../)
 
--mkdir(-p)
+- mkdir(-p)
 
--touch
+- touch
 
--cp(-r)
+- cp(-r)
 
--mv
+- mv
 
--rm(-r/-rf)
+- rm(-r/-rf)
 
--cat
+- cat
 
--vi
+- vi
 
--&&
+- &&
 
--(+/?/>/>>)
+- (+/?/>/>>)
